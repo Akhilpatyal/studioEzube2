@@ -1669,7 +1669,7 @@ body {
 		padding: 0 30px;
 	}
 	.footer-style-2{
-		padding: 40px 0 40px;
+		padding: 40px 0 20px;
 	}
 	.footer-style-2 .pbmit-footer-widget-area .widget_text{
 		padding-top: 32px;
@@ -3145,7 +3145,7 @@ body {
 		padding-right: 30px;
 	}
 	.ihbox-six-left-area {
-        padding: 60px 0px 0px 15px;
+        padding: 60px 0px 0px 0px;
     }
 	.pf-six-header-area{
 		padding: 50px 30px 1px 30px;
@@ -3449,7 +3449,7 @@ body {
 		padding: 10px 30px 20px;
 	}
 	.footer-style-2 .pbmit-footer-text-inner .row{
-		flex-direction: column-reverse;
+		flex-direction: column;
 	}
 	.footer-style-2 .pbmit-footer-copyright-text-area,
 	.footer-style-2 .pbmit-footer-social-area ul{

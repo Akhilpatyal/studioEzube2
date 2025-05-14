@@ -1002,7 +1002,7 @@ body .pbmit-color-blackish{
   bottom: 20px;
   right: 10px;
   width: 300px;
-  background: #2d2e30;
+  background: #2d2e30db;
   padding: 20px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
@@ -1113,8 +1113,8 @@ color: #ffffff;
   cursor: pointer;
 }
 @media (min-width: 600px) {
-  .contact-section {
-    display: none;
+  .onlymobile {
+    display: none!important;
   }
     
 }
