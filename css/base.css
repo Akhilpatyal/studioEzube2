@@ -400,7 +400,7 @@ INDEX:
 	color: var(--pbmit-white-color);
 }
 .pbmit-btn:focus{
-	color: var(--pbmit-white-color);
+	color: #ffcd00;
 }
 /** Divider **/
  .sep-line{
