@@ -1644,6 +1644,22 @@
 	<script src="js/scripts.js"></script>
 	<script src="form.js"></script>
 
+ 
+	 <script>
+        function closeForm() {
+            document.getElementById("stickyForm").classList.remove("show");
+            setTimeout(() => {
+                document.getElementById("stickyForm").classList.add("show");
+            }, 5000); // Show form again after 3 seconds    
+        }
+
+        window.onload = function () {
+            document.getElementById("stickyForm").classList.add("show");
+        }
+    </script>
+
+
+	<!-- custome model -->
 	<script>
 		function openCustomModal() {
 			document.getElementById("customModal").classList.add("custom-modal-show");
