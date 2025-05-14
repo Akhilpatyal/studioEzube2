@@ -4292,7 +4292,7 @@ body {
 		min-height: 1px;
 		vertical-align: top;
 		position: relative;
-		margin: 0 20px;
+		margin: 0 10px;
 	}	
 	.site-navigation ul.navigation > li.active > a,
 	.site-navigation ul.navigation > li > a:hover{
