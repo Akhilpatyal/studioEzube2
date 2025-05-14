@@ -1118,3 +1118,9 @@ color: #ffffff;
   }
     
 }
+@media (max-width: 600px) {
+  .OnlyDesktop {
+    display: none;
+  }
+    
+}
